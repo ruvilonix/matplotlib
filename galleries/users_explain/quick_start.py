@@ -209,7 +209,7 @@ plt.legend()
 #    You may find older examples that use the ``pylab`` interface,
 #    via ``from pylab import *``. This approach is strongly deprecated.
 #
-# Making a helper functions
+# Making helper functions
 # -------------------------
 #
 # If you need to make the same plots over and over again with different data
